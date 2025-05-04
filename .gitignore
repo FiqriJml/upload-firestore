@@ -4,5 +4,8 @@ node_modules/
 # File konfigurasi Firebase Admin yang sensitif
 serviceAccountKey.json
 
+#data siswa (private)
+data-siswa.json
+
 # File log
 *.log
