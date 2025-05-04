@@ -1,0 +1,8 @@
+# Node modules
+node_modules/
+
+# File konfigurasi Firebase Admin yang sensitif
+serviceAccountKey.json
+
+# File log
+*.log
